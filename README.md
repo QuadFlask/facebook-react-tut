@@ -3,6 +3,12 @@ tut: [https://facebook.github.io/react/docs/tutorial.html](https://facebook.gith
 
 * JSX : Js 에 Xml 문법 같이 사용할 수 있도록. -> Js 로 다시 트랜스파일해주는 트랜스 파일러가 필요함(JSXTransformer.js)
 
+> 실행: 
+> ```
+> python -m SimpleHTTPServer
+> open http://localhost:8000/index.html
+```
+
 ### 1. 태그 만들기
 
 ```js
